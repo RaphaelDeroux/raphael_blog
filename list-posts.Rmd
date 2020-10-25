@@ -1,0 +1,10 @@
+---
+title: "List of science posts:"
+site: distill::distill_website
+listing: 
+  posts:
+    - 2020-10-25-whales
+    - 2019-10-24-bacteria-antobiotics
+---
+
+

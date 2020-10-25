@@ -5,10 +5,14 @@ navbar:
   right:
     - text: "Home"
       href: index.html
-    - text: "M.E.A.L."
-      href: "posts/meal/index.html"
     - text: "About Me"
       href: "posts/about/index.html"
+    - text: "Sections"
+      menu:
+        - text: "Science posts"
+          href: list-posts.html
+        - text: "M.E.A.L."
+          href: "posts/meal/index.html"
     - icon: fab fa-github
       href: https://github.com/RaphaelDeroux/raphael_blog.git
 base_url: RaphaelDeroux.github.io/raphael_blog/

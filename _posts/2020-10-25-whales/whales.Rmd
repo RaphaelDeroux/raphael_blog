@@ -1,0 +1,16 @@
+---
+title: "Real an imminent extinction risk to whales"
+description: |
+  An article about the dangerous situation of whales and their diversity.
+author: 
+  - name: Raphael Deroux
+date: "`r Sys.Date()`"
+categories:
+  - "English for Science"
+#preview: 
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+# Article
