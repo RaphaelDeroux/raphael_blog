@@ -1,0 +1,37 @@
+---
+title: "Real and imminent extinction risk to whales"
+description: |
+  An article about the dangerous situation of whales and their diversity.
+author: 
+  - name: Raphael Deroux
+date: "`r Sys.Date()`"
+categories:
+  - "English for Science"
+preview: https://cdn.pixabay.com/photo/2016/11/22/19/33/animal-1850235_1280.jpg
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+## Source of the article with publication date and word count
+
+[Article](https://www.bbc.com/news/science-environment-54485407) (10/10/2020)
+752 words
+
+## Vocabulary:
+
+| Word from the text | Synonym / definition in english                                     | French translation    |
+|--------------------|---------------------------------------------------------------------|-----------------------|
+| the knife-edge     | a situation in wich nobody knows what is going to happen next       | le fil du rasoir      |
+| to spark           | to cause the start of something, especially an argument or fighting | provoquer, déclencher |
+
+## Analysis table:
+
+| Articles informations               |                                                                                                                                                                                                                                                                                                                      |
+|-------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Researchers?                        | Dr Susan Lieberman of the Wildlife Conservation Society, Sarah Dolman of Whale and Dolphins Conservation                                                                                                                                                                                                             |
+| Published in                        | BBC News on October 10, 2020                                                                                                                                                                                                                                                                                         |
+| General topic                       | Risk of extinction to whales and dolphins due to humans actions                                                                                                                                                                                                                                                      |
+| Procedure/ what has been examinated | The species most threatened by pollution and the various causes of the latter.  The emergency to fight to save these endangered species                                                                                                                                                                              |
+| Conclusions                         |  If nothing changes, half of cetacean species could disappear during our lifetime. They are threatened by plastic pollution, by the lost of their habitat and prey and by the unintentional fishing. Discussions are in progress, but government  approval and involvement is still needed to improve the situation. |
+
