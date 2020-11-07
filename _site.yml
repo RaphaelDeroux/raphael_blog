@@ -15,7 +15,7 @@ navbar:
           href: "posts/meal/index.html"
     - icon: fab fa-github
       href: https://github.com/RaphaelDeroux/raphael_blog.git
-base_url: RaphaelDeroux.github.io/raphael_blog/
+base_url: https://RaphaelDeroux.github.io/raphael_blog/
 collections:
     posts:
       disqus: raphaels-blog-1
