@@ -18,6 +18,7 @@ navbar:
 base_url: RaphaelDeroux.github.io/raphael_blog/
 collections:
     posts:
+      disqus: raphaels-blog-1
       share: [twitter, linkedin, facebook]
       #disqus: 
 output:
