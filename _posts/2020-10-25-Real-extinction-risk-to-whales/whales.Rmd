@@ -1,5 +1,5 @@
 ---
-title: "Real and imminent extinction risk to whales"
+title: "Real and Imminent Extinction Risk to Whales"
 description: |
   An article about the dangerous situation of whales and their diversity.
 author: 
@@ -20,10 +20,10 @@ output:
 
 ## Vocabulary:
 
-| Word from the text | Synonym / definition in english                                     | French translation    |
-|--------------------|---------------------------------------------------------------------|-----------------------|
-| the knife-edge     | a situation in wich nobody knows what is going to happen next       | le fil du rasoir      |
-| to spark           | to cause the start of something, especially an argument or fighting | provoquer, déclencher |
+| Word from the text | synonyme/definition in english                                      |
+|--------------------|---------------------------------------------------------------------|
+| the knife-edge     | a situation in wich nobody knows what is going to happen next       |
+| to spark           | to cause the start of something, especially an argument or fighting |
 
 ## Analysis table:
 
