@@ -22,8 +22,8 @@ output:
 
 | Word from the text | synonyme/definition in english                                      |
 |--------------------|---------------------------------------------------------------------|
-| the knife-edge     | a situation in wich nobody knows what is going to happen next       |
-| to spark           | to cause the start of something, especially an argument or fighting |
+| The knife-edge     | a situation in wich nobody knows what is going to happen next       |
+| To spark           | to cause the start of something, especially an argument or fighting |
 
 ## Analysis table:
 
