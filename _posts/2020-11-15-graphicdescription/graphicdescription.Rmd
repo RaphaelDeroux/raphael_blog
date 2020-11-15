@@ -1,0 +1,46 @@
+---
+title: "Graphic Description for SDD Curse"
+description: |
+  A graphic description about urchins.
+catégorie :
+  - Data Sciences I
+author:
+  - name: Raphaël Deroux
+    url: {}
+  - name: Nicolas Devilez
+    url: {}
+  - name: Engels Guyliann
+    url: https://guyliann.netlify.com/fr
+date: 11-15-2020
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+# package
+SciViews::R
+options(data.io_lang = "fr")
+```
+
+## Data Import
+
+```{r importation}
+
+urchin <- read("urchin_bio", package = "data.io")
+```
+
+The urchin dataset is a set of data collected from a total of 421 urchins. It presents essentially  measurements and mass surveys. There are also categories according to sex and origin.
+
+## Graphic
+
+
+```{r}
+
+chart(urchin, skeleton ~ weight %col=% origin | origin) +
+  geom_point(na.rm = TRUE) +
+  labs(x = "Total weight", y = "Skeleton's mass")
+```
+
+It's easy to see that urchins raised on farms are obviously slightly larger than those found in the wild. This is probably due to a selection process in favor of a larger mass of urchins.
