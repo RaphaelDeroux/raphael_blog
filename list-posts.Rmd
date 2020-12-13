@@ -5,6 +5,8 @@ listing:
   posts:
     - 2020-10-25-Real-extinction-risk-to-whales
     - 2019-10-24-bacteria-antobiotics
+    - 2020-12-13-extinction-is-not-inevitable
+    - 2020-12-13-the-snow-leopard-population-decrease
 ---
 
 

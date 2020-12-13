@@ -1,0 +1,41 @@
+---
+title: "The Snow Leopard Population Decrease"
+description: |
+  An article about the decrease of snow leopard population and why.
+author: 
+  - name: Raphael Deroux
+date: "`r Sys.Date()`"
+categories:
+  - "English for Science"
+preview: https://cdn.pixabay.com/photo/2015/08/19/20/27/snow-leopard-896603_960_720.jpg
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+## Source of the article with publication date and word count
+
+[Article](https://www.treehugger.com/are-snow-leopards-endangered-5072563) (30/06/2020)
+901 words
+
+## Vocabulary:
+
+| Word from the text | synonyme/definition in english             |
+|--------------------|--------------------------------------------|
+| elusive            | Wich is not easy to catch                  |
+| encroach           | Gaining territory at the expense of others |
+| livestock          | Man-raised animals                         |
+| grazing land       | Land for livestock feeding                 |
+| to retaliate       | take revenge of                            |
+| herd               | A group of animals, usually used with livestock |
+
+## Analysis table:
+
+| Articles informations               |                                                                                                                                                                                                                                                                                                                      |
+|-------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Researchers?                        | TRAFFIC and the IUCN                                                                                                                                                                                                             |
+| Published in                        | Threehuggers on July 30, 2020                                                                                                                                                                                                                                                                                         |
+| General topic                       | The decrese of the snow leopard population and the reasons of this decrease                                                                                                                                                                                                                                                      |
+| Procedure/ what has been examinated | The impact of human expansion on territory of snow leopards. The threat of climate changes and the possibles solutions.                                                                                                                                                                             |
+| Conclusions                         | Snow leopards are threatened by habitat loss and poaching. The expansion of breeding territories in the mountains reduces the land inhabited by leopards but also by their prey. The breeders take revenge on the leopards by killing them en masse. There is a need to sensitize herders, provide them with insurance for livestock losses and firmly fight against poaching. |
+

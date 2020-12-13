@@ -1,0 +1,38 @@
+---
+title: "Koala become endangered animals"
+description: |
+  An article about the possibilty to add the koala to the list of endangered species.
+author: 
+  - name: Raphael Deroux
+date: "`r Sys.Date()`"
+categories:
+  - "English for Science"
+preview: https://cdn.pixabay.com/photo/2015/02/09/20/03/koala-630117_1280.jpg
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+## Source of the article with publication date and word count
+
+[Article](https://www.theguardian.com/environment/2020/sep/25/sliding-towards-extinction-koala-may-be-given-endangered-listing-as-numbers-plummet) (25/09/2020)
+525 words
+
+## Vocabulary:
+
+| Word from the text | synonyme/definition in english                                    |
+|--------------------|-------------------------------------------------------------------|
+| bushfire           | a fire in scrub or a forest, especially one that spreads rapidly. |
+| assessment         | evaluation, estimation                                            |
+
+## Analysis table:
+
+| Articles informations               |                                                                                                                                                                                                                                                                                                                      |
+|-------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Researchers?                        | \                                                                                                                                                                                                             |
+| Published in                        | The Guardian on September 25, 2020                                                                                                                                                                                                                                                                                         |
+| General topic                       | The elevation of the threat status of koala and 27 other species.                                                                                                                                                                                                                                                      |
+| Procedure/ what has been examinated | The current threat to koalas. The chance of extinction on this species.                                                                                                                                                                              |
+| Conclusions                         | 30% of the koala's habitat has disappeared during the firebrush of this summer. Their population is in decrease on all thair habitats. It a total of 28 species wich is gonna be reevaluate to keep or to upgrade their threat status.  |
+
+

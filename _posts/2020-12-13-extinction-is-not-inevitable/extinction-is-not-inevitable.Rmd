@@ -1,0 +1,39 @@
+---
+title: "Extinction Is Not Inevitable"
+description: |
+  An article about successes in the fight against the extinction of species
+author: 
+  - name: Raphael Deroux
+date: "`r Sys.Date()`"
+categories:
+  - "English for Science"
+preview: https://cdn.pixabay.com/photo/2018/05/19/19/48/przewalski-horses-3414202_1280.jpg
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+## Source of the article with publication date and word count
+
+[Article](https://www.nytimes.com/2020/09/12/science/extinction-species-conservation.html) (15/09/2020) 732 words
+
+## Vocabulary:
+
+| Word from the text      | synonyme/definition in english                                                                                                             |
+|-------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|
+| mammal                  | Vertebrate animal, at a constant temperature, breathing through lungs, with a developed central nervous system, whose females have udders. |
+| last-ditch              | When something happens really just before a deadline                                                                                       |
+| fate                    | All the events that make up an individual's life.                                                                                          |
+| ferret                  | small mammal capable of emitting a very foul odor                                                                                          |
+| the brink of extinction | One step away from extinction 
+
+## Analysis table:
+
+| Articles informations               |                                                                                                                                                                                               |
+|-------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Researchers?                        | Rike Bolam, Postdoctoral researcher in biodiversity policy at Newcastle University in England                                                                                                                                                                                   |
+| Published in                        | New York Times on September 15 2020                                                                                                              |
+| General topic                       | Results and examples of the fight against the extinction of species                                                                                                                           |
+| Procedure/ what has been examinated | Species have been saved from extinction. The possibility to successfully fight against the extinction of species.                                                                             |
+| Conclusions                         | 48 species of birds and mammals have been saved although they remain endangered. It is possible to win against extinction. However, not all species can be saved. Efforts must be multiplied. |
+
