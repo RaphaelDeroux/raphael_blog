@@ -1,0 +1,36 @@
+---
+title: "The Danger of Scorpion Farming"
+description: |
+  An article about the danger of scorpions farming for biodiversity.
+author: 
+  - name: Raphael Deroux
+date: "`r Sys.Date()`"
+categories:
+  - "English for Science"
+preview: https://cdn.pixabay.com/photo/2014/07/22/05/43/scorpio-399120_1280.jpg
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+## Source of the article with publication date and word count:
+
+[Article](https://www.sciencedaily.com/releases/2021/03/210310122605.htm) (10/03/2021)
+706 words
+
+## Vocabulary:
+
+| Word from the text | synonyme/definition in english                                    |
+|--------------------|-------------------------------------------------------------------|
+| to harvest         | Collecter des ressources, généralement utilisé pour l'agriculture |
+| fatality           | when someone die                                                  |
+
+## Analysis table:
+
+| Articles informations               |                                                                                                                                                                                                                                                                                                             |
+|-------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Researchers?                        | Biodiversity Unit at the University of Turku, Finland                                                                                                                                                                                                                                                       |
+| Published in                        | Arachnologische Mitteilungen; Arachnology Letters, 2021                                                                                                                                                                                                                                                     |
+| General topic                       | The decrease of biodiversity of scorpions because of them exploitation                                                                                                                                                                                                                                      |
+| Procedure/ what has been examinated | Why scorpions are used for in pharmatical sector and the danger about it                                                                                                                                                                                                                                    |
+| Conclusions                         | Scorpion venoms are extremely useful in the pharmaceutical industry. That's why they are more and more captured for their venoms. But this intensive capture is a danger for species with lesser ranges. Research is conducted to find solutions because scorpions are still poorly known for some species. |

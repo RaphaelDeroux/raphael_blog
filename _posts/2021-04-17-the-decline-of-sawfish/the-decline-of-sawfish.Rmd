@@ -1,0 +1,39 @@
+---
+title: "The Decline of Sawfish"
+description: |
+  An article about the disapearance of sawfishes due to the overfishing.
+author: 
+  - name: Raphael Deroux
+date: "`r Sys.Date()`"
+categories:
+  - "English for Science"
+preview: https://cdn.pixabay.com/photo/2012/03/04/00/02/animal-21731_1280.jpg
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+## Source of the article with publication date and word count:
+
+[Article](https://www.sciencedaily.com/releases/2021/02/210210165959.htm) (10/02/2021) 
+492 words
+
+## Vocabulary:
+
+| Word from the text | synonyme/definition in english         |
+|--------------------|----------------------------------------|
+| fishing nets       | fishing tool                           |
+| fin                | Triangular fin of some fish, aileron   |
+| to thrive          | To live in peace without major problem |
+
+## Analysis table:
+
+| Articles informations               |                                                                                                                                                                                                                                                 |
+|-------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Researchers?                        | Simon Fraser University                                                                                                                                                                                                                         |
+| Published in                        | Science advances on 2021                                                                                                                                                                                                                        |
+| General topic                       | The current and future disappearance of sawfish                                                                                                                                                                                                 |
+| Procedure/ what has been examinated | The impact of overfishing on sawfish habitats                                                                                                                                                                                                   |
+| Conclusions                         | More than half of the coastal countries that have sawfishes living along their coasts have reported the complete disappearance of one or two species in their territory. The need to put protections and regulations in place is more than urgent |
+
+

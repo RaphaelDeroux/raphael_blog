@@ -13,9 +13,10 @@ output:
     self_contained: false
 ---
 
-## Source of the article with publication date and word count
+## Source of the article with publication date and word count:
 
-[Article](https://www.nytimes.com/2020/09/12/science/extinction-species-conservation.html) (15/09/2020) 732 words
+[Article](https://www.nytimes.com/2020/09/12/science/extinction-species-conservation.html) (15/09/2020) 
+732 words
 
 ## Vocabulary:
 

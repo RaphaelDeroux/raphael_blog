@@ -1,5 +1,5 @@
 ---
-title: "Koala become endangered animals"
+title: "Koala Become Endangered Animals"
 description: |
   An article about the possibilty to add the koala to the list of endangered species.
 author: 
@@ -13,7 +13,7 @@ output:
     self_contained: false
 ---
 
-## Source of the article with publication date and word count
+## Source of the article with publication date and word count:
 
 [Article](https://www.theguardian.com/environment/2020/sep/25/sliding-towards-extinction-koala-may-be-given-endangered-listing-as-numbers-plummet) (25/09/2020)
 525 words
@@ -25,7 +25,7 @@ output:
 | bushfire           | a fire in scrub or a forest, especially one that spreads rapidly. |
 | assessment         | evaluation, estimation                                            |
 
-## Analysis table:
+## Analysis table::
 
 | Articles informations               |                                                                                                                                                                                                                                                                                                                      |
 |-------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

@@ -7,6 +7,10 @@ listing:
     - 2019-10-24-bacteria-antobiotics
     - 2020-12-13-extinction-is-not-inevitable
     - 2020-12-13-the-snow-leopard-population-decrease
+    - 2020-12-13-koala-become-endangered-animals
+    - 2020-03-15-the-decline-of-sawfish
+    - 2020-03-15-the-danger-of-scorpion-farming
+    - 2020-03-15-greater-threat-to-harpy-eagles
 ---
 
 

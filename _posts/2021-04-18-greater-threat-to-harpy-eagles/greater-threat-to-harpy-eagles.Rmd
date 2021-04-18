@@ -1,0 +1,35 @@
+---
+title: "Greater Threat to Harpy Eagles"
+description: |
+  An article about a bigger threat to harpy eagles than we thought.
+author: 
+  - name: Raphael Deroux
+date: "`r Sys.Date()`"
+categories:
+  - "English for Science"
+preview: https://media.istockphoto.com/photos/harpy-eagle-with-white-rabbit-in-its-talons-picture-id464634071?b=1&k=6&m=464634071&s=170667a&w=0&h=1j692gKeoqM3wR6Ik4AUnfrfBEuORQzC9d-g8vnmZdc=
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+## Source of the article with publication date and word count:
+
+[Article](https://www.sciencedaily.com/releases/2021/01/210127085224.htm) (27/01/2021) 
+595 words
+
+## Vocabulary:
+
+| Word from the text | synonyme/definition in english       |
+|--------------------|--------------------------------------|
+| raptor             | carnivorous bird that hunts its prey |
+
+## Analysis table:
+
+| Articles informations               |                                                                                                                                                                                                                                                                                                              |
+|-------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Researchers?                        | University of Plymouth                                                                                                                                                                                                                                                                                       |
+| Published in                        | Ecology and Evolution, November 2020                                                                                                                                                                                                                                                                         |
+| General topic                       | A review of the threat to harpy eagle habitats                                                                                                                                                                                                                                                               |
+| Procedure/ what has been examinated | The change in distribution ranges and the implications. The impact of the climatic change.                                                                                                                                                                                                                   |
+| Conclusions                         | Using new models and data, the ranges of harpy eagles were reassessed. This, coupled with climate change, makes this species much more endangered than previously thought. In fact, its future habitats will be smaller than those of today. It is important to preserve these habitats in a preventive way. |

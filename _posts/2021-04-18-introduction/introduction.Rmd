@@ -1,0 +1,20 @@
+---
+title: "Introduction"
+description: 
+author:
+  - name: Raphael Deroux
+    url: {}
+date: 04-18-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+The disappearance of certain animal species is not a new subject for anyone. In fact, it is a very important problem, and one that is very much on the agenda in this great era of modernization. 
+
+However, although this fact is in everyone's mind, what do we know about this situation? What are the ins and outs? Which regions are the most affected? Which species are affected? These are all questions that pushed me to choose this field for my blog because what I want is to transform this almost abstract idea in your minds into a more than concrete reality. 
+
+To do so, I propose you different articles to really visualize this more than urgent threat. The goal is that after that, you ask yourself the following questions: What are the solutions that I can, myself, implement to preserve this magnificent thing that is the biodiversity of our world? What support can I give to this fight?
+
+I hope you will realize that if nothing changes, some of the most beautiful and curious creatures we know will be nothing more than legends for tomorrow's generations. 
+
