@@ -1,0 +1,20 @@
+---
+title: "Conclusion"
+description: 
+author:
+  - name: Raphael Deroux
+    url: {}
+date: 04-18-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+As you have seen, the risk of extinction of many species, already so great before, is increasing. There is no place or environment that does not have at least one species that is endangered. Whether it's marine animals like whales, mountain predators like snow leopards or cute little koalas.
+
+Investigations and research to combat these mass disappearances are on the increase. More and more researchers and institutes are taking action to preserve this ecosystem that makes our planet so beautiful.
+
+Although the magnitude of the work done to save at least some of these species can be daunting, it is above all a question of changing the mentalities of many people.
+These efforts are worthwhile. As you may have read, species that were thought to be doomed have been saved. However, although no longer on the road to imminent extinction, they are still in danger. This fight is still in its infancy and there is still a lot to be done, but I hope I have been able to show you that all these efforts were worthwhile.
+
+
